@@ -1,0 +1,59 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+hr{
+    border-top: 10px dotted white;
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+    margin: 30px 0;
+}
+
+.default{
+    padding: 50px 100px;
+    color: white;
+    height: auto;
+    box-sizing: border-box;
+    min-height: 100vh;
+    background-color: #d8a2c1;
+}
+
+.eee{
+    padding: 50px 100px;
+    color: white;
+    height: auto;
+    box-sizing: border-box;
+    min-height: 100vh;
+    background-color: #a2afd8;
+}
+
+.bobo{
+    padding: 50px 100px;
+    color: white;
+    height: auto;
+    box-sizing: border-box;
+    min-height: 100vh;
+    background-color: #c0a2d8;
+}
+
+.meme{
+    padding: 50px 100px;
+    color: white;
+    height: auto;
+    box-sizing: border-box;
+    min-height: 100vh;
+    background-color: #a1b3ce;
+}
+
+img{
+    height: 200px;
+    display: float;
+    float: right;
+}
+
+h2{
+    position: sticky;
+    top: 0;
+}
